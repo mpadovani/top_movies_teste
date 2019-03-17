@@ -1,6 +1,0 @@
-framework module Pods_top_movies_teste {
-  umbrella header "Pods-top_movies_teste-umbrella.h"
-
-  export *
-  module * { export * }
-}
